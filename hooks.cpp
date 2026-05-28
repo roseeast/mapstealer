@@ -6,9 +6,9 @@
  *  Covers:
  *   1. Resolve SAMP base & key pointers
  *   2. Hook SAMP incoming RakNet packet handler
- *   3. BitStream parser untuk setiap packet
+ *   3. BitStream parser for each packet
  *   4. Hook SAMP chat command dispatcher
- *   5. Hook AddChatMessage (untuk SCM output)
+ *   5. Hook AddChatMessage (for SCM output)
  * ============================================================
  */
 
