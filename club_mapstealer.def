@@ -1,0 +1,6 @@
+; ─────────────────────────────────────────────────────────────────────────────
+;  Club MapStealer — Module Definition File
+;  Used so the linker produces a DLL without a decorated DllMain export name.
+; ─────────────────────────────────────────────────────────────────────────────
+LIBRARY "club_mapstealer"
+EXPORTS
