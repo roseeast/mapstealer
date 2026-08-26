@@ -1,4 +1,4 @@
-# club_mapstealer
+# Club Mapstealer
 
 > ASI plugin for GTA San Andreas + SAMP — intercepts object packets from a server in real-time and exports them to a ready-to-use `.pwn` file.
 
